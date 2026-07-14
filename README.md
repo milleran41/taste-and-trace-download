@@ -4,19 +4,19 @@
 
 ## Download
 
-[Download Taste & Trace Portable for Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.1/Taste.Trace-Portable-0.0.1-x64.exe)
+[Download Taste & Trace Portable for Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.0/Taste.Trace-Portable-0.0.0-x64.exe)
 
-The recommended download is currently the portable `0.0.1` build.
+The recommended download is currently the portable `0.0.0` build.
 
 No installation is required: download the file, run it, and start using your cookbook.
 
 ## Important
 
-The test installer builds `0.1.0` through `0.1.3` are temporarily not recommended.
+Newer test builds are temporarily not recommended while we verify desktop packaging.
 
-We have returned the app source to the working version and will verify a proper desktop installer separately.
+If you downloaded `0.0.1` and saw a blank window or a different app icon, delete that file and use the portable `0.0.0` build linked above.
 
-If you already installed `0.1.0`, `0.1.1`, `0.1.2`, or `0.1.3` and saw a blank window or a `404` page, uninstall that version and use the portable build linked above.
+The installer builds `0.1.0` through `0.1.3` are also temporarily not recommended.
 
 ## Antivirus and SmartScreen
 
@@ -26,6 +26,6 @@ This warning is related to the file being new and unsigned, not to a known issue
 
 ## Status
 
-- Working build: `Portable 0.0.1`
+- Recommended build: `Portable 0.0.0`
+- New portable build: temporarily under review
 - Installer: temporarily under review
-- App source: restored to the working state
