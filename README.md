@@ -1,31 +1,31 @@
 # Taste & Trace
 
-**Taste & Trace** — настольная программа для Windows, которая помогает вести личную кулинарную книгу: рецепты, категории, заметки, фотографии и подробности приготовления.
+**Taste & Trace** is a Windows desktop app for keeping a personal cookbook: recipes, categories, notes, photos, and cooking details in one place.
 
-## Скачать
+## Download
 
-[Скачать Taste & Trace Portable для Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.0/Taste.Trace-Portable-0.0.0-x64.exe)
+[Download Taste & Trace Portable for Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.0/Taste.Trace-Portable-0.0.0-x64.exe)
 
-Сейчас для скачивания рекомендуется портативная версия `0.0.0`.
+The recommended download is currently the portable `0.0.0` build.
 
-Её не нужно устанавливать: скачайте файл, запустите программу и пользуйтесь кулинарной книгой.
+No installation is required: download the file, run it, and start using your cookbook.
 
-## Важно
+## Important
 
-Новые тестовые установщики `0.1.0` — `0.1.3` временно не рекомендуются к установке.
+The test installer builds `0.1.0` through `0.1.3` are temporarily not recommended.
 
-Мы вернулись к рабочей версии программы и отдельно проверим нормальный установщик позже.
+We have returned the app source to the working version and will verify a proper desktop installer separately.
 
-Если вы уже установили `0.1.0`, `0.1.1`, `0.1.2` или `0.1.3` и увидели пустое окно или страницу `404`, удалите эту версию и используйте портативную сборку по ссылке выше.
+If you already installed `0.1.0`, `0.1.1`, `0.1.2`, or `0.1.3` and saw a blank window or a `404` page, uninstall that version and use the portable build linked above.
 
-## Антивирус и SmartScreen
+## Antivirus and SmartScreen
 
-У Taste & Trace пока нет цифровой подписи разработчика. Поэтому Windows SmartScreen или антивирус могут показать предупреждение при первом запуске.
+Taste & Trace does not yet have a developer code-signing certificate. Because of this, Windows SmartScreen or antivirus software may show a warning on first launch.
 
-Это связано не с ошибкой программы, а с тем, что файл новый и пока не подписан сертификатом. Подписанный установщик будет подготовлен позже, после проверки настольной сборки.
+This warning is related to the file being new and unsigned, not to a known issue in the app. A signed installer will be prepared later after the desktop package is verified.
 
-## Статус
+## Status
 
-- Рабочая версия: `Portable 0.0.0`
-- Установщик: временно на проверке
-- Исходный код программы: восстановлен до рабочего состояния
+- Working build: `Portable 0.0.0`
+- Installer: temporarily under review
+- App source: restored to the working state
