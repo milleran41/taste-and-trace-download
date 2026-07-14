@@ -4,9 +4,9 @@
 
 ## Download
 
-[Download Taste & Trace Portable for Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.0/Taste.Trace-Portable-0.0.0-x64.exe)
+[Download Taste & Trace Portable for Windows](https://github.com/milleran41/taste-and-trace-download/releases/download/v0.0.1/Taste.Trace-Portable-0.0.1-x64.exe)
 
-The recommended download is currently the portable `0.0.0` build.
+The recommended download is currently the portable `0.0.1` build.
 
 No installation is required: download the file, run it, and start using your cookbook.
 
@@ -26,6 +26,6 @@ This warning is related to the file being new and unsigned, not to a known issue
 
 ## Status
 
-- Working build: `Portable 0.0.0`
+- Working build: `Portable 0.0.1`
 - Installer: temporarily under review
 - App source: restored to the working state
